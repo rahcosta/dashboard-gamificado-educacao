@@ -15,7 +15,11 @@ Este é um **dashboard interativo** desenvolvido para tornar o ensino de computa
 
 1. **Baixe a planilha** ou **faça uma cópia** no Google Sheets.  
 2. **Personalize os critérios de XP e habilidades** de acordo com a necessidade da turma.  
-3. **Acompanhe os dados** em tempo real através dos gráficos e rankings.  
+3. **Acompanhe os dados** em tempo real através dos gráficos e rankings.
+
+## 📂 Acesse a Planilha
+
+A planilha pode ser acessada através do link abaixo: [Dashboard Gamificado](https://docs.google.com/spreadsheets/d/1wB_CgeFrcGrHpXuWL3elvpdQ2Ey9gpuKixyjX3e7bVo/edit?usp=sharing)
 
 ## 🔥 Motivação  
 
