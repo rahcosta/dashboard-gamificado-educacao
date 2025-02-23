@@ -19,7 +19,7 @@ Este é um **dashboard interativo** desenvolvido para tornar o ensino de computa
 
 ## 📂 Acesse a Planilha
 
-A planilha pode ser acessada através do link abaixo: [Dashboard Gamificado](https://docs.google.com/spreadsheets/d/1wB_CgeFrcGrHpXuWL3elvpdQ2Ey9gpuKixyjX3e7bVo/edit?usp=sharing)
+A planilha pode ser acessada através do link ao lado: [Dashboard Gamificado](https://docs.google.com/spreadsheets/d/1wB_CgeFrcGrHpXuWL3elvpdQ2Ey9gpuKixyjX3e7bVo/edit?usp=sharing)
 
 ## 🔥 Motivação  
 
